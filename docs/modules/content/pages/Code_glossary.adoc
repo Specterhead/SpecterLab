@@ -1,3 +1,0 @@
-= Code Glossary
-
-_description of the code glossary functions and features_
