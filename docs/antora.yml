@@ -1,5 +1,3 @@
-name: SpecterLab
+name: index
 title: Index
-version: '1.0'
-nav:
-- modules/content/nav.adoc
+version: index
