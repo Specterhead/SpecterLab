@@ -1,3 +1,0 @@
-= SSO
-
-Single sign on...
