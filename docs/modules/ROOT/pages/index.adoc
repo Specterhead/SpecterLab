@@ -1,0 +1,27 @@
+= SpecterLab Documentation
+
+Welcome to the documentation homepage for SpecterLab and the associated server. Here you can find technical information on the hardware, software, and services.
+
+== Documentation for a Local Server Build
+
+Good documentation is important for any size project. Many server builds include proprietary knowledge, which means the availability of server documentation is limited. The goal of the SpecterLab documentation is twofold:
+
+1. To provide access to technical information, steps, guildelines, and processes for a local server build.
+2. To store information, including code snippets, audit files, and scripts, for easy reference.
+
+== Features
+
+This documentation includes information on:
+
+* Local media server configuration
+* Data storage solutions for a home network
+* Balancing best security practices while maintaining usability
+* Container use for flexibility and sandboxing
+
+Toggle through the navigation for more details on these -- and many other -- features. 
+
+== Code Snippets 
+
+Technical details for reproducability are emphasized throughout the topics. For quick reference to regularly used actions and tools, see the _Glossary_. 
+
+(C) Documentation copyright to darling docs 2020. Code copyright to SpecterLab 2020.

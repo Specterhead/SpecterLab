@@ -1,0 +1,23 @@
+.xref:Hardware.adoc[]
+** xref:Hardware_breakdown.adoc[Hardware Breakdown]
+
+.xref:OS.adoc[]
+
+.xref:Network.adoc[]
+** xref:Network_hardware.adoc[Network Hardware Breakdown]
+
+.xref:Software.adoc[]
+** xref:PLEX.adoc[]
+*** xref:PLEX_installation.adoc[PLEX Installation]
+** xref:SSO.adoc[]
+*** xref:SSO_installation.adoc[SSO Installation]
+** xref:Auditing_emails.adoc[Auditing Emails]
+
+.xref:Storage.adoc[]
+** xref:File_structure.adoc[File Structure]
+** xref:Backups.adoc[Backups]
+** xref:Redundancies.adoc[Redundancies]
+
+.xref:Code_glossary.adoc[]
+** xref:Snippets.adoc[Snippets]
+

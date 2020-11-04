@@ -1,0 +1,5 @@
+= Network Hardware Breakdown
+
+_information about the hardware for the network_
+
+- include a list of hardware 
