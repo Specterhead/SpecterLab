@@ -1,8 +1,0 @@
-= Hardware
-
-To document: Why these pieces were chosen / the rationale
-
-Ultimately there were two main requirements for the system. The hardware needed to be:
-
-1. Low-powered.
-2. Compatible with the _must have_ programs.
