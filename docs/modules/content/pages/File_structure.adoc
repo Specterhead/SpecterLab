@@ -1,3 +1,0 @@
-= File Structure
-
-_information on file structure_
