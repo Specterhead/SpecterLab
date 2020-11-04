@@ -1,3 +1,0 @@
-= Backups
-
-_information on backups_
