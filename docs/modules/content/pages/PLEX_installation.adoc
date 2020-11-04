@@ -1,3 +1,0 @@
-= PLEX Installation
-
-How to install PLEX...
