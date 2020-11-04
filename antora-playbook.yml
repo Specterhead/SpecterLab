@@ -1,6 +1,7 @@
 site:
   title: SpecterLab
   url: https://specterhead.github.io
+  start_page: docs::index.adoc
 content:
   sources: 
   - url: https://github.com/Specterhead/specterhead.github.io
