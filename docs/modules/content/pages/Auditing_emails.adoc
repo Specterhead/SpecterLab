@@ -1,3 +1,0 @@
-= Auditing emails
-
-_information on that email auditing service installed_
