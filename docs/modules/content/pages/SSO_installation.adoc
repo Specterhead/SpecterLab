@@ -1,3 +1,0 @@
-= SSO Installation
-
-What is an SSO...
