@@ -1,4 +1,4 @@
 name: SpecterLab
 version: '1.0'
 nav:
-- modules/content/nav.adoc
+- modules/ROOT/nav.adoc
