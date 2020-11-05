@@ -10,3 +10,9 @@ ui:
   bundle:
     url: https://github.com/Specterhead/specterhead.github.io/blob/master/docs/ui-bundle.zip?raw=true
     snapshot: true
+supplemental_files:
+  - path: ui.yml
+    contents: |
+      static_files: [ .nojekyll ]
+  - path: .nojekyll 
+  
