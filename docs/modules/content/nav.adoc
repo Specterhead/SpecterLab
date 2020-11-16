@@ -1,7 +1,11 @@
+.Project Background
+* xref:Project_background.adoc[]
+
 .xref:Hardware.adoc[]
 * xref:Hardware_breakdown.adoc[Hardware Breakdown]
 
-.xref:OS.adoc[]
+.Operating System
+* xref:OS.adoc[]
 
 .xref:Network.adoc[]
 * xref:Network_hardware.adoc[Network Hardware Breakdown]
@@ -20,5 +24,3 @@
 
 .xref:Code_glossary.adoc[]
 * xref:Snippets.adoc[Snippets]
-
-.xref:Project_background.adoc[]
