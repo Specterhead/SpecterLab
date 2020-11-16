@@ -1,4 +1,4 @@
-.Project Background
+.Introduction
 * xref:Project_background.adoc[]
 
 .xref:Hardware.adoc[]
