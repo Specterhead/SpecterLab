@@ -1,5 +1,3 @@
-.xref:Project_background.adoc[]
-
 .xref:Hardware.adoc[]
 * xref:Hardware_breakdown.adoc[Hardware Breakdown]
 
@@ -22,4 +20,5 @@
 
 .xref:Code_glossary.adoc[]
 * xref:Snippets.adoc[Snippets]
- 
+
+.xref:Project_background.adoc[]
