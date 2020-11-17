@@ -29,8 +29,7 @@ information is secure and that I have the final say in what is done with it.
 
 1. Provide reliable file storage and backups for multiple machines and users.
 2. Create a media hub for a large, converted, digital media library.
-3. Include a space for personal documentation.footnote:[Obviously my personal documentation for the home server build 
-outgrew the server itself and information is now hosted externally through this site.] and note collection. 
+3. Include a space for personal documentation and note collection.footnote:[Obviously my personal documentation for the home server build outgrew the server itself and information is now hosted externally through this site.]
 
 === Plans for the future
 
