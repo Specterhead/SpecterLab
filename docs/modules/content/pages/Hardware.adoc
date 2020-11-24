@@ -1,8 +1,9 @@
 = Hardware
 
-To document: Why these pieces were chosen / the rationale
-
-Ultimately there were two main requirements for the system. The hardware needed to be:
+The hardware included is required to be: 
 
 1. Low-powered.
-2. Compatible with the _must have_ programs.
+2. Compatible with the _must have_ docker applications.
+3. Inexpensive.
+
+> Room to continue adding new drives, and a possible CPU update, were additional considerations for the initial build.
