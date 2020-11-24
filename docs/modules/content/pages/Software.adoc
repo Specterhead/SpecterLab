@@ -1,3 +1,3 @@
 = Software 
 
-_information about the software_ 
+This system is put together on top of Ubuntu 20.04 LTS, Docker, mergerFS, and SnapRAID.
