@@ -1,5 +1,37 @@
 = Network Hardware Breakdown
 
-_information about the hardware for the network_
+== Network components
 
-- include a list of hardware 
+The network components current in use are:
+
+- **Modem:** Technicolor TC4300 Cable Modem
+- **Router:** Ubiquiti Edgerouter X 
+- **Access point 1:** Ubiquiti Unifi AP AC LITE 802.11ac
+- **Access point 2:** Ubiquiti Unifi AC MESH 802.11ac
+
+== Rationale
+
+==== Modem
+
+A basic cable modem that works with modern DOCSIS requirements and is accepted by all Canadian internet service providers.footnote[As far as I have checked.]
+
+==== Router
+
+Features include:
+
+- Gigabit LAN ports
+- Possibility to power over ethernet (POE)
+-- POE has a passthrough to one port for the wireless acess point
+- Fanless
+
+This piece of hardware is one of the best return on investments for the build thus far. In over five years of use, with zero downtime, there have been no issues.
+
+==== Access points
+
+1. Entry-level wireless access point 
+
+2. Connects from the AC LITE in a 5 GHz mesh configuration to extend network coverage.
+
+> For this project, the network configuration must maintain strength and signal across an old brick apartment building.
+
+NOTE: This list is up to date as of November 22nd, 2020.
