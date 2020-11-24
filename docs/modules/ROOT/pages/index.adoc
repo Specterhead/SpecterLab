@@ -4,10 +4,11 @@ Welcome to the documentation homepage for SpecterLab and the associated server. 
 
 == Documentation for a Local Server Build
 
-Good documentation is important for any size project. Many server builds include proprietary knowledge, which means the availability of server documentation is limited. The goal of the SpecterLab documentation is twofold:
+Good documentation is important for any size project. Many server builds include proprietary knowledge, which means the availability of server documentation is limited. The goal of the SpecterLab documentation is threefold:
 
 1. To provide access to technical information, steps, guildelines, and processes for a local server build.
 2. To store information, including code snippets, audit files, and scripts, for easy reference.
+3. To act as a guide for other people interested in building a home server.
 
 == Features
 
@@ -18,7 +19,7 @@ This documentation includes information on:
 * Balancing best security practices while maintaining usability
 * Container use for flexibility and sandboxing
 
-Toggle through the navigation for more details on these -- and many other -- features. 
+Toggle through the navigation for more details on these---and many other---features. 
 
 == Code Snippets 
 
