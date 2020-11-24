@@ -18,25 +18,25 @@ The hardware currently in use includes:
 
 == Rationale
 
-==== CPU
+=== CPU
 
 An efficient dual-core with a TDW of only 54 watts, the stock cooler is capable enough for continuous use (twenty-four-seven) at an average of 3%. For this build, the primary benefits are Intel's Hyper-Threading Technology and Quick Sync, and the integrated GPU.
 
-==== Motherboard
+=== Motherboard
 
 Is a microATX that contains enough SATA ports for the project. 
 
-==== Memory
+=== Memory
 
 The least expensive DDR4 memory available that is supported by the motherboard. 
 
 > This choice was also more of a test to see if the memory could provide stable and reliable performance. This has proven successful to date.
 
-==== PSU
+=== PSU
 
 A reputible brand with enough headroom for a possible drive count increase. Although it is not modular, the efficiency rating suggests a cost of pennies per month.
 
-==== Storage
+=== Storage
 
 1. Contains enough space, and provides enough speed, for an operating system and cache drive.
 
@@ -44,7 +44,7 @@ A reputible brand with enough headroom for a possible drive count increase. Alth
 
 3. These are shucked Seagate drives purchased on sale. These drives are a 15mm thick 2.5" drive, and can cause some mounting and hot swap bay issues. Speed is more than enough for media and backup storage, while the scrutiny program drive reliability estimates support the use.
 
-==== Case
+=== Case
 
 Inexpensive and highly modular; however, the layout is underwhelming and the structure is flimsy.
 
