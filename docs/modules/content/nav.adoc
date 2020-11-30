@@ -3,24 +3,22 @@
 
 .xref:Hardware.adoc[]
 * xref:Hardware_breakdown.adoc[Hardware Breakdown]
-
-.Operating System
-* xref:OS.adoc[]
+* xref:Hardware_setup.adoc[Setup]
 
 .xref:Network.adoc[]
 * xref:Network_hardware.adoc[Network Hardware Breakdown]
+* xref:Network_setup.adoc[Setup]
 
 .xref:Software.adoc[]
-* xref:PLEX.adoc[]
-** xref:PLEX_installation.adoc[PLEX Installation]
-* xref:SSO.adoc[]
-** xref:SSO_installation.adoc[SSO Installation]
-** xref:Auditing_emails.adoc[Auditing Emails]
+* xref:Software_usability.adoc[How To Use]
+* xref:Software_setup.adoc[Setup]
 
 .xref:Storage.adoc[]
-* xref:File_structure.adoc[File Structure]
-* xref:Backups.adoc[Backups]
-* xref:Redundancies.adoc[Redundancies]
+* xref:St_file_structure.adoc[File Structure]
+* xref:St_backups.adoc[Backups]
+* xref:St_redundancies.adoc[Redundancies]
+* xref:St_setup.adoc[Setup]
 
 .xref:Code_glossary.adoc[]
-* xref:Snippets.adoc[Snippets]
+* xref:CG_config.adoc[Configuration Files]
+* xref:CG_snippets.adoc[Snippets]

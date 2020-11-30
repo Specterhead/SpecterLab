@@ -23,7 +23,7 @@ So far it has been an interesting challenge and provided me _a lot_ of useful an
 
 While the startup costs can greatly outweight a yearly subscription to, say, a service for data backups or media streaming, 
 I know once established, this approach will be able to grow with my needs. Most importantly, I know my data and personal 
-information is secure and that I have the final say in what is done with it.
+information is secure and that I have the final say in what is done with this information.
 
 === This home server project needs to fulfill the following roles:
 

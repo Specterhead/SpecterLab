@@ -4,6 +4,7 @@
 
 The hardware currently in use includes:
 
+- **Case:** Thermaltake Core V21 MicroATX
 - **CPU:** Intel Pentium G4560 3.5 GHz Dual-Core Processor
 - **Motherboard:** MSI B250M PRO-VD Micro ATX LGA1151
 - **Memory:** Crucial 8 GB DDR4-2400 17
@@ -12,19 +13,21 @@ The hardware currently in use includes:
 - **Storage 2:** WD Blue 2 TB
 - **Storage 3:** Seagate Barracuda 4 TB x2
 
-== Peripherals
-
-- **Case:** Thermaltake Core V21 MicroATX
-
 == Rationale
+
+=== Case
+
+Inexpensive and highly modular; however, the layout is underwhelming and the structure is flimsy.
+
+> I would not recommend this piece, and I am looking to replace it.
 
 === CPU
 
-An efficient dual-core with a TDW of only 54 watts, the stock cooler is capable enough for continuous use (twenty-four-seven) at an average of 3%. For this build, the primary benefits are Intel's Hyper-Threading Technology and Quick Sync, and the integrated GPU.
+An efficient dual-core with a thermal design power of only 54 watts, the stock cooler is capable enough for continuous use (twenty-four-seven) at an average of 3%. For this build, the primary benefits are Intel's Hyper-Threading Technology and Quick Sync, and the integrated GPU.
 
 === Motherboard
 
-Is a microATX that contains enough SATA ports for the project. 
+Is a microATX that contains enough SATA ports for expandability. 
 
 === Memory
 
@@ -34,20 +37,14 @@ The least expensive DDR4 memory available that is supported by the motherboard.
 
 === PSU
 
-A reputible brand with enough headroom for a possible drive count increase. Although it is not modular, the efficiency rating suggests a cost of pennies per month.
+A reputible brand with enough headroom for a possible drive count increase. Unfortunately it is not modular, and doesn't hold the best efficiency rating.
 
 === Storage
 
-1. Contains enough space, and provides enough speed, for an operating system and cache drive.
+1. Samsung 840: Contains enough space, and provides enough speed, for an operating system and cache drive.
 
-2. A piece available from a previous build that still shows green SMART readings. Primary use is in the drive pool as mass storage.
+2. WD Blue 2 TB: A piece available from a previous build that still shows green SMART readings. Primary use is in the drive pool as mass storage.
 
-3. These are shucked Seagate drives purchased on sale. These drives are a 15mm thick 2.5" drive, and can cause some mounting and hot swap bay issues. Speed is more than enough for media and backup storage, while the scrutiny program drive reliability estimates support the use.
-
-=== Case
-
-Inexpensive and highly modular; however, the layout is underwhelming and the structure is flimsy.
-
-> I would not recommend this piece, and I am looking to replace it.
+3. Barracuda 4 TB: These are shucked Seagate drives purchased on sale. These drives are a 15mm thick 2.5" drive, and can cause some mounting and hot swap bay issues. Speed is more than enough for media and backup storage, while https://github.com/AnalogJ/scrutiny[scrutiny] estimates a reliability rating to support continuous use.
 
 NOTE: This list is up to date as of November 22nd, 2020.
