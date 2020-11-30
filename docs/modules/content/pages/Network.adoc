@@ -1,5 +1,5 @@
 = Network
 
-For this project, the network components must operate effectively with viturtually zero downtime and maintain a stable wireless connections in old or new buildings.
+For this project, the network components must operate effectively with viturtually zero downtime and maintain a stable wireless connection in old or new buildings.
 
 Expandability and future-proofing are also considerations, though that is relevant for all components included in this build.

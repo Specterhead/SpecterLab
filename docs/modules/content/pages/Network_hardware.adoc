@@ -21,16 +21,16 @@ Features include:
 
 - Gigabit LAN ports
 - Possibility to power over ethernet (POE)
--- POE has a passthrough to one port for the wireless acess point
+- A defined port with POE passthrough
 - Fanless
 
 This piece of hardware is one of the best return on investments for the build thus far. In over five years of use, with zero downtime, there have been no issues.
 
 === Access points
 
-1. Entry-level wireless access point 
+1. AP AC LITE: An entry-level wireless access point. 
 
-2. Connects from the AC LITE in a 5 GHz mesh configuration to extend network coverage.
+2. AC MESH: Connects from the AC LITE in a 5 GHz mesh configuration to extend network coverage.
 
 > For this project, the network configuration must maintain strength and signal across an old brick apartment building.
 

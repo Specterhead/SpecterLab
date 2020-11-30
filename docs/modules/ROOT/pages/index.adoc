@@ -25,4 +25,4 @@ Toggle through the navigation for more details on these---and many other---featu
 
 Technical details for reproducability are emphasized throughout the topics. For quick reference to regularly used actions and tools, see the _Glossary_. 
 
-(C) Documentation copyright to darling docs 2020. Code copyright to SpecterLab 2020.
+(C) Documentation and technical writing provided by https://darlingdocs.com[darling docs] 2020. Copyright 2020 SpecterLab.
